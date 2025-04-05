@@ -1,7 +1,7 @@
 {
   "name": "chat-application-backend",
   "version": "1.0.0",
-  "description": "",
+  "description": "Server for chat application",
   "license": "ISC",
   "author": "Syed Nazmul Hossain",
   "type": "module",
